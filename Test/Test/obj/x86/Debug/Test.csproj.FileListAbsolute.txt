@@ -1,0 +1,5 @@
+D:\Amruta\Test\Test\bin\Debug\Test.exe
+D:\Amruta\Test\Test\bin\Debug\Test.pdb
+D:\Amruta\Test\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Amruta\Test\Test\obj\x86\Debug\Test.exe
+D:\Amruta\Test\Test\obj\x86\Debug\Test.pdb
